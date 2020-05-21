@@ -26,4 +26,4 @@ require "anti-ddos-lite/anti-ddos-lite.php";
 
 2. Generate new value for $secure_cookie_salt. 
 ## Contacts
-Email: welcome@cleantalk.org
+Email: exodia090@gmail.com
